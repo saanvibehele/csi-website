@@ -1,0 +1,38 @@
+#navb {
+    background-color: #253B86;
+}
+
+div.c-wrapper{
+    width: 80%; 
+    margin: auto;
+    background-color: #EEEEEE;
+}
+
+
+#whatiscsi { 
+    width: 90%;
+    margin: auto;
+}
+.btn-secondary{
+    width: 30%;
+    background-color: #253B86 !important;
+}
+
+#ach{
+    width: 90%;
+    margin: auto;
+}
+
+.achi{
+    padding: 0px;
+    margin: 0;
+}
+
+.form{
+    margin: auto;
+    text-align: center;
+}
+
+.fname{
+    width: 80%;
+}
